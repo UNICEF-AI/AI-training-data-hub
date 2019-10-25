@@ -1,5 +1,4 @@
-# Rethingking AI
-repository for training samples for AI 
+# repository for training samples for AI 
 
 Why training data hub?
 The field of AI has been advanced as resources for it has been enriched including computing resources, and input data such as satellite imagery, mobile phone data etc. However, not enough consideration has been given to the biases in algorithms while at cases, the consequences especially when they are used to serve humanitarian operations, which targets the most vulnerable population. One of the greatest sources of such biases is the geospatial imbalances in training samples.
@@ -10,6 +9,6 @@ We are a small research group in UNICEF. Our interest is to stimulate the advanc
 
 How you can contribute?
 All the data available in the hub are free!
-You can contribute by uploading your data to the database in the matching format with the existing datasets. For an assistant or inquiries, please contact magicbox.unicef@gmail.com
+You can contribute by uploading your data to the database in the matching format with the existing datasets. For an assistant or inquiries, please contact dokim@unicef.org
 
 
